@@ -26,28 +26,28 @@ public class HomeController : ControllerBase
     [HttpPost]
     public IActionResult AddArticle(Article article)
     {
-        var result = _articleServices.Add(article);
+        var result = _articleServices.AddArticle(article);
         return Ok(result); 
     } 
 
     [HttpPost("update")]
     public IActionResult UpdateArticle(int Id)
     {
-        var result = _articleServices.Update(Id); 
+        var result = _articleServices.UpdateArticle(Id); 
         return Ok(result);
     }
 
     [HttpGet("{id}")] 
     public IActionResult Display1Article(int id)
     {
-        var result = _articleServices.Get(id); 
+        var result = _articleServices.Display1Article(id); 
         return Ok(result);
     }
 
     [HttpDelete]
     public IActionResult DeleteArticle(int id)
     {
-        var result = _articleServices.Delete(id); 
+        var result = _articleServices.DeleteArticle(id); 
         return Ok(result);
     }
 
