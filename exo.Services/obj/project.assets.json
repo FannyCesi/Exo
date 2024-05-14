@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "exo.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/exo.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/exo.Common.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "exo.Common/1.0.0": {
-      "type": "project",
-      "path": "../exo.Common/exo.Common.csproj",
-      "msbuildProject": "../exo.Common/exo.Common.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "exo.Common >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\Fanny.alfonso\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Services\\exo.Services.csproj",
       "projectName": "exo.Services",
-      "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj",
+      "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Services\\exo.Services.csproj",
       "packagesPath": "C:\\Users\\Fanny.alfonso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\obj\\",
+      "outputPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fanny.alfonso\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj": {
-              "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

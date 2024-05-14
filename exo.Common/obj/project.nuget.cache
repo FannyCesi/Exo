@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LWEyPxczXNPXYBkRf5wyTfQ5x4uLUTCUXlrwvobuAwyItcXvg0zBErnjeI61dAsHWC7jPUnKJBN23MmwuY4HLA==",
+  "dgSpecHash": "4qsCpM2+E3xJd3TBbCwOFH0GvQZedPV1YcnAUWnZJEyK8F32DxGkJ3Y8mrcf4sW9NKMbhXsRY5lFpNV3eBAR6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj",
+  "projectFilePath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Common\\exo.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

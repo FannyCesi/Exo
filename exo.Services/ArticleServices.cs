@@ -44,7 +44,7 @@ namespace exo.Services;
         /// <param name="Id"></param>
         /// <returns></returns>
         public string Display1Article(int Id){
-        var myArticle = Articles.Find(x => x.Id == Id);
+var myArticle = Articles.Find(x => x.Id == Id);
         if (myArticle != null)
         {
             return myArticle.Title;
@@ -81,3 +81,4 @@ namespace exo.Services;
         }
 
     }
+

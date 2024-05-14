@@ -3391,6 +3391,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "exo.Common": "1.0.0",
           "exo.Services": "1.0.0"
         },
         "compile": {

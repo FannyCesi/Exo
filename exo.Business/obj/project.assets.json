@@ -41,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "exo.Common >= 1.0.0",
       "exo.Services >= 1.0.0"
     ]
   },
@@ -69,6 +70,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj": {
+              "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj"
+            },
             "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj": {
               "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj"
             }

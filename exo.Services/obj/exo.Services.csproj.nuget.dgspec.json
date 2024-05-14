@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj": {}
+    "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Services\\exo.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj": {
+    "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Services\\exo.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj",
-        "projectName": "exo.Common",
-        "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Services\\exo.Services.csproj",
+        "projectName": "exo.Services",
+        "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Services\\exo.Services.csproj",
         "packagesPath": "C:\\Users\\Fanny.alfonso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\obj\\",
+        "outputPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Controller\\exo.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fanny.alfonso\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,63 +26,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj",
-        "projectName": "exo.Services",
-        "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj",
-        "packagesPath": "C:\\Users\\Fanny.alfonso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Fanny.alfonso\\AppData\\Roaming\\NuGet\\NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj": {
-                "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj"
-              }
-            }
           }
         },
         "warningProperties": {

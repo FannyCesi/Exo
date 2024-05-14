@@ -23,6 +23,8 @@ public class HomeController : ControllerBase
 
 
     // Appel des fonctions de CRUD de exo.Services
+
+    //CREATE
     [HttpPost]
     public IActionResult AddArticle(Article article)
     {
@@ -30,6 +32,7 @@ public class HomeController : ControllerBase
         return Ok(result); 
     } 
 
+    //UPDATE
     [HttpPost("update")]
     public IActionResult UpdateArticle(int Id)
     {
@@ -37,6 +40,7 @@ public class HomeController : ControllerBase
         return Ok(result);
     }
 
+    //READ
     [HttpGet("{id}")] 
     public IActionResult Display1Article(int id)
     {
@@ -44,6 +48,7 @@ public class HomeController : ControllerBase
         return Ok(result);
     }
 
+    //DELETE
     [HttpDelete]
     public IActionResult DeleteArticle(int id)
     {
