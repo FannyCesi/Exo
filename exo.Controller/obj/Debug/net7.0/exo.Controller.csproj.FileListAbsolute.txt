@@ -12,3 +12,4 @@ C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\refint\e
 C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.pdb
 C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.genruntimeconfig.cache
 C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\ref\exo.Controller.dll
+C:\Users\Fanny.alfonso\source\repos\Exo\exo.Controller\obj\Debug\net7.0\exo.Controller.csproj.AssemblyReference.cache

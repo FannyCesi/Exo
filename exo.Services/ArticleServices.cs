@@ -24,8 +24,9 @@ namespace exo.Services;
         /// Function to add a new article
         /// </summary>
         /// <param name="article"></param>
-        public void AddArticle(Article article){
+        public string AddArticle(Article article){
             Articles.Add(article);
+            return "Successfully created a new article";
         }   
 
         /// <summary>
@@ -56,7 +57,7 @@ namespace exo.Services;
         /// </summary>
         /// <param name="Id"></param>
         /// <returns></returns>
-        public string Update(int Id){
+        public string UpdateArticle(int Id){
         var myArticle = Articles.Find(x => x.Id == Id);
         if (myArticle != null)
         {
@@ -67,7 +68,7 @@ namespace exo.Services;
         return "Article doesn't exist";
         }
 
-        public string Delete(int id)
+        public string DeleteArticle(int id)
         {
         var myArticle = Articles.Find(x => x.Id == id);
         if (myArticle != null)

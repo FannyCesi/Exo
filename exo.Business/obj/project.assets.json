@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "exo.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/exo.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/exo.Common.dll": {}
+        }
+      },
+      "exo.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "exo.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/exo.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/exo.Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "exo.Common/1.0.0": {
+      "type": "project",
+      "path": "../exo.Common/exo.Common.csproj",
+      "msbuildProject": "../exo.Common/exo.Common.csproj"
+    },
+    "exo.Services/1.0.0": {
+      "type": "project",
+      "path": "../exo.Services/exo.Services.csproj",
+      "msbuildProject": "../exo.Services/exo.Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "exo.Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Fanny.alfonso\\.nuget\\packages\\": {}
@@ -31,7 +68,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj": {
+              "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Services\\exo.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

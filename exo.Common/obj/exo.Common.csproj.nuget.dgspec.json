@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fanny.alfonso\\source\\repos\\exo\\exo.Common\\exo.Common.csproj": {}
+    "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fanny.alfonso\\source\\repos\\exo\\exo.Common\\exo.Common.csproj": {
+    "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fanny.alfonso\\source\\repos\\exo\\exo.Common\\exo.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj",
         "projectName": "exo.Common",
-        "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\exo\\exo.Common\\exo.Common.csproj",
+        "projectPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\exo.Common.csproj",
         "packagesPath": "C:\\Users\\Fanny.alfonso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\exo\\exo.Common\\obj\\",
+        "outputPath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fanny.alfonso\\AppData\\Roaming\\NuGet\\NuGet.Config"

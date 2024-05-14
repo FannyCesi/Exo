@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dqfo05nXwarfW5rw8RhqkXCT+O5Y2GKZLWjCRrHr5nCGdhG+oLc3Ce7JA6xcX1OfUF2ORBIGYpOl3Q8cTXffDQ==",
+  "dgSpecHash": "3Mtm0Sl68DPtpeV+iLCEwNNtKZEq/1ZctA2DGxMzsHj5igQWs4WiSP23pmAFvZGWHFNxkCGJBACrnfEYeYGQ/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fanny.alfonso\\source\\repos\\exo\\exo.DataAccess\\exo.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Fanny.alfonso\\source\\repos\\Exo\\exo.DataAccess\\exo.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fanny.alfonso\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Fanny.alfonso\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
