@@ -1,0 +1,14 @@
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\bin\Debug\net7.0\exo.Controller.exe
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\bin\Debug\net7.0\exo.Controller.deps.json
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\bin\Debug\net7.0\exo.Controller.runtimeconfig.json
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\bin\Debug\net7.0\exo.Controller.dll
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\bin\Debug\net7.0\exo.Controller.pdb
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.AssemblyInfoInputs.cache
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.AssemblyInfo.cs
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.dll
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\refint\exo.Controller.dll
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.pdb
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\exo.Controller.genruntimeconfig.cache
+C:\Users\Fanny.alfonso\source\repos\exo\exo.Controller\obj\Debug\net7.0\ref\exo.Controller.dll
